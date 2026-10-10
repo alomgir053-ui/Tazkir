@@ -1,0 +1,6 @@
+{
+  "name": "Tazkir - Islamic Companion & Quran Reader",
+  "description": "দৈনন্দিন জীবনে কুরআন ও সুন্নাহর আলোকে একটি সহজ সঙ্গী। কুরআন, বিষয়ভিত্তিক দোয়া, নামাজ সময়সূচি, ইসলামিক বই ও স্মার্ট এআই কোচ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
